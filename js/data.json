@@ -1,0 +1,424 @@
+{
+  "preguntas": [
+    {
+      "pregunta": "¿Cuál fue el resultado del último Clásico?",
+      "respuestas": [
+        {
+          "respuesta": "Real Madrid ganó 2-1",
+          "tipo": "true"
+        },
+        {
+          "respuesta": "Empate 1-1",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Barcelona ganó 4-0",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Barcelona ganó 3-1",
+          "tipo": "false"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Dónde se jugó el último Clásico?",
+      "respuestas": [
+        {
+          "respuesta": "Estadio Santiago Bernabéu",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Estadio Soldier Field",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Estadio Olímpico de Roma",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Estadio Camp Nou",
+          "tipo": "true"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Quién es el máximo goleador del Barcelona en Clásicos?",
+      "respuestas": [
+        {
+          "respuesta": "Johan Cruyff",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Lionel Messi",
+          "tipo": "true"
+        },
+        {
+          "respuesta": "Gerard Piqué",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Luis Suárez",
+          "tipo": "false"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Cuántos goles ha marcado Messi en la historia de los Clásicos?",
+      "respuestas": [
+        {
+          "respuesta": "21",
+          "tipo": "true"
+        },
+        {
+          "respuesta": "20",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "14",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "18",
+          "tipo": "false"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Quién es el máximo goleador del Real Madrid en Clásicos?",
+      "respuestas": [
+        {
+          "respuesta": "Santiago Bernabéu",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Hugo Sánchez",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Alfredo Di Stéfano",
+          "tipo": "true"
+        },
+        {
+          "respuesta": "Cristiano Ronaldo",
+          "tipo": "false"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Cuántos goles ha marcado CR7 en Clásicos?",
+      "respuestas": [
+        {
+          "respuesta": "16",
+          "tipo": "true"
+        },
+        {
+          "respuesta": "20",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "19",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "15",
+          "tipo": "false"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿En qué temporada el Barça goleó al Madrid por 6-2?",
+      "respuestas": [
+        {
+          "respuesta": "2000-2001",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "2009-2010",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "2008-2009",
+          "tipo": "true"
+        },
+        {
+          "respuesta": "2005-2006",
+          "tipo": "false"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿A qué jugador ex-Barça le lanzaron una cabeza de cerdo durante un Clásico en el Camp Nou?",
+      "respuestas": [
+        {
+          "respuesta": "Schuster",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Figo",
+          "tipo": "true"
+        },
+        {
+          "respuesta": "Laudrup",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Ronaldo",
+          "tipo": "false"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Qué personaje figura del Barça es considerado a la fecha un “traidor” por la afición del Madrid?",
+      "respuestas": [
+        {
+          "respuesta": "Luis Enrique",
+          "tipo": "true"
+        },
+        {
+          "respuesta": "Schuster",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Ronaldo",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Luis Suárez",
+          "tipo": "false"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Qué jugador actual del Barça confesó cuando era niño ser hincha del Madrid?",
+      "respuestas": [
+        {
+          "respuesta": "Lionel Messi",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Luis Suárez",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Andrés Iniesta",
+          "tipo": "true"
+        },
+        {
+          "respuesta": "Neymar",
+          "tipo": "false"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Cuál fue el resultado del último partido en Champions que jugaron culés y merengues?",
+      "respuestas": [
+        {
+          "respuesta": "Barcelona ganó 2-1",
+          "tipo": "true"
+        },
+        {
+          "respuesta": "Real Madrid ganó 2-0",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Empate 2-2",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Empate 1-1",
+          "tipo": "false"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Quién era el entrenador del Barcelona en la famosa goleada de 6-2 al Madrid?",
+      "respuestas": [
+        {
+          "respuesta": "Pep Guardiola",
+          "tipo": "true"
+        },
+        {
+          "respuesta": "Tito Vilanova",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Luis Enrique",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Bobby Robson",
+          "tipo": "false"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Qué famoso personaje fue traductor y auxiliar en el Barça antes de dirigir al Real Madrid?",
+      "respuestas": [
+        {
+          "respuesta": "Zinedine Zidane",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Louis van Gaal",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "José Mourinho",
+          "tipo": "true"
+        },
+        {
+          "respuesta": "Vicente del Bosque",
+          "tipo": "false"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Cuántos goles ha marcado Luis Suárez con el Barça al Madrid?",
+      "respuestas": [
+        {
+          "respuesta": "Ninguno",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Dos",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Ocho",
+          "tipo": "true"
+        },
+        {
+          "respuesta": "Seis",
+          "tipo": "false"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Quién ha disputado más Clásicos como jugador del Barça?",
+      "respuestas": [
+        {
+          "respuesta": "Andrés Iniesta",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Xavi",
+          "tipo": "true"
+        },
+        {
+          "respuesta": "Luis Enrique",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Carles Puyol",
+          "tipo": "false"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Quién ha disputado más Clásicos como jugador del Real Madrid?",
+      "respuestas": [
+        {
+          "respuesta": "Manolo Sanchís",
+          "tipo": "true"
+        },
+        {
+          "respuesta": "Raúl",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Cristiano Ronaldo",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Zidane",
+          "tipo": "false"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Quién marcó el gol del Barcelona en el último Clásico?",
+      "respuestas": [
+        {
+          "respuesta": "Lionel Messi",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Luis Suárez",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Neymar",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Gerard Piqué",
+          "tipo": "true"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Qué jugador dio el triunfo al Real Madrid en el último Clásico?",
+      "respuestas": [
+        {
+          "respuesta": "Cristiano Ronaldo",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Sergio Ramos",
+          "tipo": "true"
+        },
+        {
+          "respuesta": "Álvaro Morata",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Gareth Bale",
+          "tipo": "false"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Quién fue el portero titular del Barcelona en el último Clásico?",
+      "respuestas": [
+        {
+          "respuesta": "Ter Stegen",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Claudio Bravo",
+          "tipo": "true"
+        },
+        {
+          "respuesta": "Víctor Valdés",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Andoni Zubizarreta",
+          "tipo": "false"
+        }
+      ]
+    },
+    {
+      "pregunta": "Quién es el actual técnico del Real Madrid?",
+      "respuestas": [
+        {
+          "respuesta": "Zinedine Zidane",
+          "tipo": "true"
+        },
+        {
+          "respuesta": "José Mourinho",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Vicente del Bosque",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Paco Jémez",
+          "tipo": "false"
+        }
+      ]
+    }
+  ]
+}
