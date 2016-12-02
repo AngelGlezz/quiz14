@@ -771,7 +771,7 @@ $("#indepth_twittear").click(function(){
 
 		
 		var text = encodeURIComponent("Mi predicción es: Barcelona "+$("input[name=goleador]").val()+"-"+$("input[name=goleador2]").val())+ " Real Madrid primer gol al minuto "+$("input[name=goles_anotados]").val()+" @juanfutroll";
-		var url = encodeURIComponent("http://juanfutbol.com/indepth/pizzafut-");
+		var url = encodeURIComponent("http://juanfutbol.com/indepth/pizzafut-el-clasico");
 		window.open("https://twitter.com/share?text="+text+"&hashtags=pizzafut&url="+url,"","width=500, height=300");
 
 	} else {
