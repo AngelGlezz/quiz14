@@ -405,11 +405,11 @@ $("#indepth_boton_empezar").on("click",function(){
 				      "respuestas": [
 				        {
 				          "respuesta": "Cristiano Ronaldo",
-				          "tipo": "false"
+				          "tipo": "true"
 				        },
 				        {
 				          "respuesta": "Sergio Ramos",
-				          "tipo": "true"
+				          "tipo": "false"
 				        },
 				        {
 				          "respuesta": "Álvaro Morata",
